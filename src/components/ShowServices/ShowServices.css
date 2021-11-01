@@ -1,0 +1,7 @@
+.style-img{
+    width: 100%;
+    transition: .6s;
+}
+.style-img:hover{
+    width: 102%;
+}
